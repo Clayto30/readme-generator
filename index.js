@@ -42,7 +42,7 @@ const questions = [
         message: 'Instruct us on some test for this project, please.'
       },
       {
-        type: 'list',
+        type: 'checkbox',
         name: 'license',
         message: 'Please choose the open source license that is right for your project',
         choices: ['APACHE', 'MIT', 'GNU GPLv3']
