@@ -74,4 +74,4 @@ SOFTWARE.
 
 ## Badges
 
-[MIT License](https://shields.io/bower/l/:packageName)
+[MIT License](https://img.shields.io/badge/license-MIT-%3Cgreen%3E)
