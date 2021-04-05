@@ -74,4 +74,4 @@ SOFTWARE.
 
 ## Badges
 
-![badmath](https://shields.io/category/license/bower/l/:packageName)
+[badmath](https://shields.io/category/license/bower/l/:packageName)
